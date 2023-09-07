@@ -1,0 +1,222 @@
+[
+    {
+        "id": "01",
+        "question" : "React is also known as _____.",
+        "options": [
+            "ReactJS",
+            "JS",
+            "Both A. and B",
+            "None of these"
+        ],
+        "answer": "Both A. and B"
+    },
+    {
+        "id": "02",
+        "question" : "React is a ____.",
+        "options": [
+            "Web development Framework",
+            "JavaScript Library",
+            "jQuery",
+            "Web Server"
+        ],
+        "answer": "JavaScript Library"
+    },
+    {
+        "id": "03",
+        "question" : " Which ReactJS function renders HTML to the web page?",
+        "options": [
+            "render()",
+            "ReactDOM.render()",
+            "renders()",
+            "renders()"
+        ],
+        "answer": "ReactDOM.render()"
+    },
+    {
+        "id": "04",
+        "question" : "JSX stands for _____.",
+        "options": [
+            "JSON",
+            "JSON XML",
+            "JavaScript XML",
+            "JavaScript and AngularJS"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": "05",
+        "question" : "What of the following is used in React.js to increase performance?",
+        "options": [
+            "Original DOM",
+            "Virtual DOM",
+            "Both A and B.",
+            "None of the above."
+        ],
+        "answer": "Virtual DOM"
+    },
+    {
+        "id": "06",
+        "question" : "What is the default port where webpack-server runs?",
+        "options": [
+            "3000",
+            "8080",
+            "3030",
+            "6060"
+        ],
+        "answer": "3000"
+    },
+    {
+        "id": "07",
+        "question" : "How many numbers of elements a valid react component can return?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Unlimited"
+        ],
+        "answer": "1"
+    },
+    {
+        "id": "08",
+        "question" : "What is the declarative way to render a dynamic list of components based on values in an array?",
+        "options": [
+            "Using the reduce array method",
+            "Using the <Each /> component",
+            "Using the Array.map() method",
+            "With a for/while loop"
+        ],
+        "answer": "Using the Array.map() method"
+    },
+    {
+        "id": "09",
+        "question" : "What is a state in React?",
+        "options": [
+            "A permanent storage.",
+            "Internal storage of the component.",
+            "External storage of the component.",
+            "None of the above."
+        ],
+        "answer": "Internal storage of the component."
+    },
+    {
+        "id": "10",
+        "question" : "What are the two ways to handle data in React?",
+        "options": [
+            "State & Props",
+            "Services & Components",
+            "State & Services",
+            "State & Component"
+        ],
+        "answer": "State & Props"
+    },
+    {
+        "id": "11",
+        "question" : "In ES6 - Why arrow functions are used?",
+        "options": [
+            "To access pointer variable",
+            "To access variable of a class",
+            "Both A. and B",
+            "Write shorter function syntax"
+        ],
+        "answer": "Write shorter function syntax"
+    },
+    {
+        "id": "12",
+        "question" : "Consider the below function – which is the correct syntax of arrow function?",
+        "options": [
+            "Msg = () => {return 'Good Morning'}",
+            "Msg = () => 'Good Morning'",
+            "Both A. and B",
+            "None of the above"
+        ],
+        "answer": "Both A. and B"
+    },
+    {
+        "id": "13",
+        "question" : "Which is the correct arrow function to add two numbers?",
+        "options": [
+            "add = (a,b) => a+b;",
+            "add = (a,b) => a+b;",
+            "add = (a,b) => { return a+b;}",
+            "Both A. and C"
+        ],
+        "answer": "Both A. and C"
+    },
+    {
+        "id": "14",
+        "question" : "With an arrow function - this keyword represents _____.",
+        "options": [
+            "Content",
+            "Header object",
+            "Current object",
+            "Child object"
+        ],
+        "answer": "Header object"
+    },
+    {
+        "id": "15",
+        "question" : "Complete the below given arrow function.",
+        "options": [
+            "()",
+            "=>",
+            "()>",
+            "() =>"
+        ],
+        "answer": "() =>"
+    },
+    {
+        "id": "16",
+        "question" : " In ES6 - Which are the keywords to define variables?",
+        "options": [
+            "var",
+            "let",
+            "const",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": "17",
+        "question" : "Which is used to pass data to components from outside?",
+        "options": [
+            "Render with arguments",
+            "props",
+            "setState",
+            "PropTypes"
+        ],
+        "answer": "props"
+    },
+    {
+        "id": "18",
+        "question" : "In ES6 - let is the block scoped version of ____.",
+        "options": [
+            "const",
+            "function",
+            "var",
+            "None of the above"
+        ],
+        "answer": "var"
+    },
+    {
+        "id": "19",
+        "question" : "Which method is used to generate lists?",
+        "options": [
+            "map()",
+            "generate()",
+            "new()",
+            "maps()"
+        ],
+        "answer": "map()"
+    },
+    {
+        "id": "20",
+        "question" : "What is the default port where webpack-server runs?",
+        "options": [
+            "8000",
+            "8080",
+            "3000",
+            "3030"
+        ],
+        "answer": "8080"
+    }
+]
